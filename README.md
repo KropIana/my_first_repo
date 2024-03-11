@@ -42,3 +42,4 @@ git config core.sshCommand "ssh -i ~/.ssh/user-private-key -o IdentitiesOnly=yes
 
 # Добавили небольшой текст из браузера
 
+# And added some content locally 
